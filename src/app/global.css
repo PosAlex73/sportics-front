@@ -1,5 +1,9 @@
-@import url("https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap");
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "./plugins/animate.css";
+@import "./plugins/magnific-popup.css";
+@import "./plugins/plugins.min.css";
+@import "./plugins/swiper.min.css";
+@import "./vendor/font-awesome-pro.min.css";
+@import "./vendor/pe-icon-7-stroke.css";
+@import "./vendor/proxima-nova.css";
+@import "./vendor/vendor.min.css";
+@import "./style.css";
